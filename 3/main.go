@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/init-go/matematica"
+	"github.com/ediogama/init-go/3/matematica"
 )
 
 func main() {
